@@ -16,6 +16,8 @@ Work:
 Not Work:
 -Bluetooth
 -Wifi/Ethernet
+-AirDrop
+-update (no wifi/ethernet)
 
 
 
