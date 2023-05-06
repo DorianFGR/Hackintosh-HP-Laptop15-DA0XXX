@@ -11,13 +11,13 @@ Work:
 -Keyboard + trackpad
 -SATA and NVME SSD/HDD
 -Reset nvram 
+-Ethernet
+-update
 
 
 Not Work:
--Bluetooth
--Wifi/Ethernet
--AirDrop
--update (no wifi/ethernet)
+-Bluetooth/Wifi ( work if you change the wifi card)
+
 
 
 
