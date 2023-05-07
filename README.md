@@ -1,5 +1,5 @@
 # Hackintosh-HP-Laptop15-DA0XXX
-EFI for hp Laptop 15-DA0XXX in macOS Ventura/Monterey and opencore 0,9,1
+EFI for hp Laptop 15-DA0XXX in macOS Ventura/Monterey opencore 0,9,1
 
 
 To use this EFI you must use the SMBIOS: macbookpro14,3
