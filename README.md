@@ -7,6 +7,7 @@ To use this EFI you must use the SMBIOS: macbookpro14,3
 Work:
 -Boot
 -Install
+-Macos Ventura (13)
 -Macos Monterey (12)
 -Keyboard + trackpad
 -SATA and NVME SSD/HDD
@@ -17,6 +18,7 @@ Work:
 
 Not Work:
 -Bluetooth/Wifi ( work if you change the wifi card)
+-Sound and micro
 
 
 
