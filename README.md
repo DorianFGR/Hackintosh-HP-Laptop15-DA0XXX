@@ -26,4 +26,4 @@ Not Work:
 Thank's to : 
 
 Discord hackintosh X86 : https://discord.gg/hackintosh. (help and support)
-Olarila MacOS install images : https://www.olarila.com/topic/6278-olarila-vanilla-images-macos-installer/
+              Olarila MacOS install images : https://www.olarila.com/topic/6278-olarila-vanilla-images-macos-installer/
