@@ -15,8 +15,7 @@ Work:
 -Ethernet
 -update
 
-
-Not Work:
+Don't Work:
 -Bluetooth/Wifi ( work if you change the wifi card)
 -Sound and micro
 
